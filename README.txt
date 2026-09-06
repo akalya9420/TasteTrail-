@@ -1,0 +1,1 @@
+TasteTrail ready-to-publish static website. Upload all 4 files (index.html, styles.css, app.js, foods.json) to one folder/repository. Open index.html through a web host; GitHub Pages is recommended. The dataset contains 3,500 records across 28 states.
